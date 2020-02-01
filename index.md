@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## HELLO AND Welcome to my new page
 
 You can use the [editor on GitHub](https://github.com/quickhowto/linux/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
